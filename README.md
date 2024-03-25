@@ -1,3 +1,3 @@
 # lyonscode.github.io
 
-Sample text
+Cybersecurity is my passion, so I had to pick the "Hacker" Jekyll theme, right?
